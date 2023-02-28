@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\racetrack\bin\Debug\netcoreapp3.1\racetrack.exe
+C:\Users\Admin\source\repos\racetrack\bin\Debug\netcoreapp3.1\racetrack.deps.json
+C:\Users\Admin\source\repos\racetrack\bin\Debug\netcoreapp3.1\racetrack.runtimeconfig.json
+C:\Users\Admin\source\repos\racetrack\bin\Debug\netcoreapp3.1\racetrack.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\racetrack\bin\Debug\netcoreapp3.1\racetrack.dll
+C:\Users\Admin\source\repos\racetrack\bin\Debug\netcoreapp3.1\racetrack.pdb
+C:\Users\Admin\source\repos\racetrack\obj\Debug\netcoreapp3.1\racetrack.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\racetrack\obj\Debug\netcoreapp3.1\racetrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\racetrack\obj\Debug\netcoreapp3.1\racetrack.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\racetrack\obj\Debug\netcoreapp3.1\racetrack.AssemblyInfo.cs
+C:\Users\Admin\source\repos\racetrack\obj\Debug\netcoreapp3.1\racetrack.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\racetrack\obj\Debug\netcoreapp3.1\racetrack.dll
+C:\Users\Admin\source\repos\racetrack\obj\Debug\netcoreapp3.1\racetrack.pdb
+C:\Users\Admin\source\repos\racetrack\obj\Debug\netcoreapp3.1\racetrack.genruntimeconfig.cache
